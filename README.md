@@ -32,9 +32,8 @@ As Project Leader, I was responsible for defining the application's scope based 
 2. Open `index.html` in your web browser
 3. No installation or build steps required
 ## Screenshots
- 
 <!-- Tambahkan screenshot aplikasi kamu di sini, contoh: -->
-<!-- ![Calculator UI](screenshots/main-view.png) -->
+![Calculator UI](screenshots/FromMenu.png)
  
 ## 📄 License
  
