@@ -30,7 +30,7 @@ As Project Leader, I was responsible for defining the application's scope based 
 ## How to Run
  
 1. Clone or download this repository
-2. Open `index.html` in your web browser
+2. Open `Menu.html` in your web browser
 3. No installation or build steps required
 ## Screenshots
 <!-- Tambahkan screenshot aplikasi kamu di sini, contoh: -->
